@@ -1,0 +1,18 @@
+
+
+item.curseofabyss.scapegoat.name=替罪羊？
+item.curseofabyss.scapegoat.tooltip.status_high_durability=§o§6Give me your wishes
+item.curseofabyss.scapegoat.tooltip.status_medium_durability=§o§epraying for the lost
+item.curseofabyss.scapegoat.tooltip.status_low_durability=§o§ffor our hope
+
+item.star_compass.name=星之罗盘
+
+item.star_compass.tooltip.quote_short="朝闻道"
+
+item.star_compass.tooltip.quote_long="朝闻道，夕可死矣"
+
+
+item.star_compass.tooltip.coords_set=§b[X:§e%d§b, Y:§e%d§b, Z:§e%d§b, 维度:§e%d§b]§f(下蹲+右键重设)
+item.star_compass.tooltip.no_target_set=§c无目标(下蹲+右键重设)
+item.star_compass.tooltip.hold_shift_for_status=按住 §eshift§r 查看详情
+item.star_compass.message.item_frame_interaction=§b它想要见证更多

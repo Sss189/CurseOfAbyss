@@ -1,0 +1,17 @@
+
+
+item.curseofabyss.scapegoat.name=Scapegoat?
+item.curseofabyss.scapegoat.tooltip.status_high_durability=§o§6Give me your wishes
+item.curseofabyss.scapegoat.tooltip.status_medium_durability=§o§epraying for the lost
+item.curseofabyss.scapegoat.tooltip.status_low_durability=§o§ffor our hope
+
+item.star_compass.name=StarCompass
+
+item.star_compass.tooltip.quote_short="Learn the Way at dawn..."
+
+item.star_compass.tooltip.quote_long="If a man learns the Way in the morning, it would be no misfortune to die that evening."
+
+item.star_compass.tooltip.coords_set=§b[X:§e%d§b, Y:§e%d§b, Z:§e%d§b, Dim:§e%d§b]§f(Sneak + Right-click to set)
+item.star_compass.tooltip.no_target_set=§cNo target set (Sneak + Right-click to set)
+item.star_compass.tooltip.hold_shift_for_status=Hold §eshift§r for status
+item.star_compass.message.item_frame_interaction=§bIt yearns to witness more

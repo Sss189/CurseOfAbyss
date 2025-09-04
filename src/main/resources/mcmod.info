@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "curseofabyss",
+    "name": "Curse of Abyss",
+    "description": "A mod that adds abyss curse effects.喵喵(＾ω＾)",
+    "version": "1.3.2",
+    "authorList": ["@18903929(n18903729@163.com)"],
+    "credits": "Thanks to Forge team!",
+    "dependencies": ["required-after:forge@[14.23.5.2860,)"]
+
+  }
+]
